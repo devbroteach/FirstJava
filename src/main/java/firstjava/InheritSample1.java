@@ -43,7 +43,5 @@ public class InheritSample1 {
             System.out.println(p);
         }
 
-
-
     }
 }
